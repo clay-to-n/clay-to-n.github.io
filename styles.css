@@ -1,0 +1,18 @@
+body {
+  align-items: center;
+  background-color: #638BB3;
+  display: flex;
+  justify-content: center;
+  margin-top: 200px;
+}
+
+.content {
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  color: #FFFFFF;
+}
+
+a {
+  color: #EEEEEE;
+  display: flex;
+  margin-top: 16px;
+}
